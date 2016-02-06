@@ -1,6 +1,6 @@
 # Fuck Powerpoint
 ### Use Reveal.js, Markdown, and Github Pages to easily create badass presentations
-
+(Narrative of Alex Niderberg's [presentation](http://aln787.github.io/revealGhPages/#/))
 This is a practical guide to creating presentations using Reveal Markdown. If you read this guide and follow the examples (don't be lazy - actually try them), you will have the requisite skills to create badass Reveal.js presentations with Markdown that you host on Github Pages like a boss.
 
 ### PowerPoint is awful.
