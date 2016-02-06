@@ -1,10 +1,11 @@
 # Fuck Powerpoint
 ### Use Reveal.js, Markdown, and Github Pages to easily create badass presentations
 (Narrative of Alex Niderberg's [presentation](http://aln787.github.io/revealGhPages/#/))
+
 This is a practical guide to creating presentations using Reveal Markdown. If you read this guide and follow the examples (don't be lazy - actually try them), you will have the requisite skills to create badass Reveal.js presentations with Markdown that you host on Github Pages like a boss.
 
 ### PowerPoint is awful.
-As much as we love to blame the decline in Western culture on social media and reality television, those of who work desk jobs know that PowerPoint has done more to retard cognitive development and crush the human spirit than anything else. While it is true that the PowerPoint authors are truly to blame, and they will be held accountable (read that in a V for Vendetta voice), PowerPoint both as a tool and medium of expression allows for easily generated vapid nonsense.It encourages is us to trade complex ideas for not-more-than-three bullets and to create hideous, static graphics when a real example is what is needed.
+As much as we love to blame the decline in Western culture on social media and reality television, those of who work desk jobs know that PowerPoint has done more to retard cognitive development and crush the human spirit than anything else. While it is true that the PowerPoint authors are truly to blame, and they will be held accountable (read that in a V for Vendetta voice), PowerPoint as both a tool and medium of expression allows for easily generated vapid nonsense.It encourages us to trade complex ideas for not-more-than-three bullets and to create hideous, static graphics when a real example is what is needed.
 
 No more. This has to stop.
 
